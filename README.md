@@ -1,2 +1,2 @@
 # RSNA-BoneAge
-predict Age with X-Ray images
+an AI for predicting Age by X-Ray images
